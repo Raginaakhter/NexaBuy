@@ -12,6 +12,7 @@ import AdminDashboardPage from "@/pages/Admin/AdminDashboardPage";
 import SettingsPage from "@/pages/Admin/SettingsPage";
 import ClientDashboardPage from "@/pages/Client/ClientDashboardPage";
 import ClientLayout from "@/Layout/ClientLayout";
+import Search from "@/pages/Search";
 
 
 
@@ -24,7 +25,10 @@ const routes = createBrowserRouter([
         path: "/",
         element: <Home />,
       },
-
+   {
+        path: "/search",
+        element: <Search />,
+      },
       {
         path: "/login",
         element: <Login />,

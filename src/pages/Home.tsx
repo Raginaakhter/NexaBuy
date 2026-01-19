@@ -1,9 +1,9 @@
-import Login from "./Login";
+
 
 const Home = () => {
   return (
     <div>
-      <Login />
+    This is home page
     </div>
   );
 };
