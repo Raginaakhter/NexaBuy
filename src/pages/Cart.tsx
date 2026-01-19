@@ -3,7 +3,7 @@
 const Cart = () => {
     return (
         <div>
-            this is cart pages L Alias magni hic eos incidunt facilis!
+            this is cart pages L
         </div>
     );
 };
