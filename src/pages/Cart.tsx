@@ -5,7 +5,7 @@ const Cart = () => {
         <div>
            Loadipisicing elit. Accusantium odi
            o obcaecati vero atque ipsam dicta nam sit,us voluptatem molestiae iusto delectus cum? Totam autem temporibus blanditiis ab atque.
-           <button className="text-amber-200" >click here</button>
+           <button className="text-amber-200" >click </button>
        
            Lorem ipsum dolor sit amet consectetur 
         </div>
