@@ -3,7 +3,7 @@
 const Cart = () => {
     return (
         <div>
-            this isveniam odit eveniet sit laborum atque cum nobis mollitia! jhhhhhhhhhhhhhh
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium odio obcaecati vero atque ipsam dicta nam sit, praesentium accusamus voluptatem molestiae iusto delectus cum? Totam autem temporibus blanditiis ab atque.
            
         </div>
     );
