@@ -3,7 +3,7 @@
 const Cart = () => {
     return (
         <div>
-            this is  quia a atq dignissimos hhhhhhhhhhhhhhhhhhhhhh veniam odit eveniet sit laborum atque cum nobis mollitia!
+            this isveniam odit eveniet sit laborum atque cum nobis mollitia!
            
         </div>
     );
