@@ -4,7 +4,7 @@ const Search = () => {
     return (
         <div>
             This is search page 11 hjkkk also aded Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae, quibusdam perferendis iste dolor numquam nobis! Voluptas nesciunt numquam, architecto consequatur at voluptatum temporibus dignissimos impedi
-            psum dolor sit amet consectetur adipisicing elit. Facere accusantium laborum facilis officia corrupti sapiente id nam mollitia iste doloribus, recusandae itaque laudantium veniam asperiores nesciunt e
+            adipisicing elit. Facere accusantium laborum facilis officia corrupti sapiente id nam mollitia iste doloribus, recusandae itaque laudantium veniam asperiores nesciunt e
             
         </div>  
     );
