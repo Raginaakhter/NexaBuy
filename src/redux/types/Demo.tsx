@@ -3,7 +3,7 @@
 const Demo = () => {
     return (
         <div>
-            Lorem, ipsum . Sunt, iure soluta, porro quos obcaecati vero beatae,
+            Lorem, ipsum . Sunt, iure soluta, porro quos obcaecati vero beatae,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus totam est voluptates, distinctio exercitationem earum, eum vitae rem in facere repudiandae eius nulla eligendi ipsum corrupti fuga soluta iste! Eius.
              
         </div>
     );
