@@ -6,7 +6,7 @@ const Demo = () => {
         sol quos obcaecati vero beatae,Lorem ipsum dolor sit amet, consectetur  eligendi ipsum corrupti fuga soluta iste! Eius.
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium, sapiente quisquam ex praesentium ut quod laborum. In provident tenetur ut porro quibusdam 
          consectetur. Facere, tenetur? 
-         Voluptatum, quia magni deleniti delectus ullam ex ut officia totam suscipit at odio minima, cum
+         Voluptatum, quia magni deleniti delectusex ut officia totam suscipit at odio minima, cum
             
         </div>
     );
