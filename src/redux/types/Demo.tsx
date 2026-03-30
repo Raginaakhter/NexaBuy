@@ -4,7 +4,7 @@ const Demo = () => {
     return (
         <div>
         sol quos obcaecati vero beatae,Lorem ipsum dolor sit amet, consectetur  eligendi ipsum corrupti fuga soluta iste! Eius.
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis possimus dolore nostrum necessitatibus delectus perferendis expedita molestias soluta alias architecto praesentium, ea aspernatur voluptate omnis, modi, laboriosam voluptates iure libero?
+          consectetur adipisicing elit. Facilis possimus dolore nostrum necessitatibus delectus perferendis expedita molestias soluta alias architecto praesentium, ea aspernatur voluptate omnis, modi, laboriosam voluptates iure libero?
             
         </div>
     );
