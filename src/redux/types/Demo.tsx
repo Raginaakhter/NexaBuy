@@ -5,7 +5,7 @@ const Demo = () => {
         <div>
         sol quos  ipsum dolor sit , consectetur  eligendi ipsum corrupti fuga soluta iste! Eius.
           consectetur adipisicing elit.
-        voluptates  libero?
+        libero?
          velit 
         </div>
     );
